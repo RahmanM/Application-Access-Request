@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+  <item_option_new_set action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>f5a5c18f280c44a0b6772e824deed0a4</sys_id>
+    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+    <sys_update_name>item_option_new_set_f5a5c18f280c44a0b6772e824deed0a4</sys_update_name>
+    <create_roles/>
+    <description>Use the ADD button to select system(s) required</description>
+    <display_title>true</display_title>
+    <internal_name>system_requirements</internal_name>
+    <layout>normal</layout>
+    <name/>
+    <order>200</order>
+    <read_roles/>
+    <set_attributes/>
+    <title>System Requirements</title>
+    <type>one_to_many</type>
+    <version>1</version>
+    <write_roles/>
+  </item_option_new_set>
+</record_update>

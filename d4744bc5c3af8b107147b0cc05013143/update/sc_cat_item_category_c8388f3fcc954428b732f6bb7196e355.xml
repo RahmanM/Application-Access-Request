@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+  <sc_cat_item_category action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>c8388f3fcc954428b732f6bb7196e355</sys_id>
+    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+    <sys_update_name>sc_cat_item_category_c8388f3fcc954428b732f6bb7196e355</sys_update_name>
+    <sc_cat_item>b2b50e5d4bc345e28041d8099a8974d0</sc_cat_item>
+    <sc_category>22555319db0150104327198d1396195c</sc_category>
+  </sc_cat_item_category>
+</record_update>
