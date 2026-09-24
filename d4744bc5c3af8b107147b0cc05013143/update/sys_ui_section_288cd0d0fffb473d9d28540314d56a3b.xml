@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Task Details" section_id="288cd0d0fffb473d9d28540314d56a3b" sys_domain="global" table="x_857557_applica_0_acc_tmpl" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>task_short_description</element>
+      <position>0</position>
+      <sys_id>84b105cccb9248e486168aa969f6f0c2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>task_description</element>
+      <position>1</position>
+      <sys_id>7403f4a530cc42c080a1ee9a2d89ab1f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Task Details</caption>
+      <header>false</header>
+      <name>x_857557_applica_0_acc_tmpl</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>288cd0d0fffb473d9d28540314d56a3b</sys_id>
+      <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

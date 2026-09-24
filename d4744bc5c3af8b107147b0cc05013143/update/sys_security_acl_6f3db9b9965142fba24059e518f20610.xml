@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+  <sys_security_acl action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>6f3db9b9965142fba24059e518f20610</sys_id>
+    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+    <sys_update_name>sys_security_acl_6f3db9b9965142fba24059e518f20610</sys_update_name>
+    <active>true</active>
+    <admin_overrides>true</admin_overrides>
+    <advanced>false</advanced>
+    <applies_to/>
+    <condition/>
+    <decision_type>allow</decision_type>
+    <description/>
+    <name>x_857557_applica_0_acc_level</name>
+    <operation display_value="delete">delete</operation>
+    <script/>
+    <security_attribute/>
+    <sys_name>x_857557_applica_0_acc_level</sys_name>
+    <type>record</type>
+  </sys_security_acl>
+</record_update>

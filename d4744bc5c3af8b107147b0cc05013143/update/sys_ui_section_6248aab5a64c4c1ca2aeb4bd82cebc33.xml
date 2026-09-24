@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Approvals" section_id="6248aab5a64c4c1ca2aeb4bd82cebc33" sys_domain="global" table="x_857557_applica_0_acc_level" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>0a00ad0bab8e472aba4c6a27cb3d0d96</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>owner_approval</element>
+      <position>1</position>
+      <sys_id>c81a849886fb4249a24a067559948d9b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>approval_group</element>
+      <position>2</position>
+      <sys_id>29a76aa27f224d9b97c8077eaa7671f9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>ce0a04b7c5444fada63cf0238991fa39</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>line_manager_approval</element>
+      <position>4</position>
+      <sys_id>e16329d4e00d4004ad43ebbba8b3602b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>approval_group_override</element>
+      <position>5</position>
+      <sys_id>121d3544f13e456db9c8245da3272ff7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>cf53fa70a39d4224bfeb78574f39452b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Approvals" display_value="Approvals" name="x_857557_applica_0_acc_level" sys_domain="global" view="Default view">6248aab5a64c4c1ca2aeb4bd82cebc33</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Approvals</caption>
+      <header>false</header>
+      <name>x_857557_applica_0_acc_level</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>6248aab5a64c4c1ca2aeb4bd82cebc33</sys_id>
+      <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

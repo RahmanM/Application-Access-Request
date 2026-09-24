@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="4573d35de13549afbbab0ed32a6c4e92" sys_domain="global" table="x_857557_applica_0_acc_tmpl">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>e817e88e08e34aeea7bb60ba0e317619</sys_id>
+      <sys_ui_form display_value="x_857557_applica_0_acc_tmpl" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">4573d35de13549afbbab0ed32a6c4e92</sys_ui_form>
+      <sys_ui_section caption="General" display_value="General" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">f5cb751e47ef4ede81e388e5aae26977</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>1</position>
+      <sys_id>22bf5eeabd604c57a7747c643657fa4a</sys_id>
+      <sys_ui_form display_value="x_857557_applica_0_acc_tmpl" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">4573d35de13549afbbab0ed32a6c4e92</sys_ui_form>
+      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_857557_applica_0_acc_tmpl</name>
+      <roles/>
+      <sys_id>4573d35de13549afbbab0ed32a6c4e92</sys_id>
+      <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

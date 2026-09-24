@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+  <sys_security_acl_role action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>6b72692f7f2c405fbe7b3bafc9408c1f</sys_id>
+    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+    <sys_update_name>sys_security_acl_role_6b72692f7f2c405fbe7b3bafc9408c1f</sys_update_name>
+    <sys_security_acl>282cb03c33c44baeb3a00fa09afe9613</sys_security_acl>
+    <sys_user_role name="snc_internal">911089bb8f874e588987d327d1fb16f6</sys_user_role>
+  </sys_security_acl_role>
+</record_update>

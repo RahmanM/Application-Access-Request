@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_group">
+  <sys_user_group action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>295f0b9d5e9048309c1c729d92cf97b7</sys_id>
+    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+    <sys_update_name>sys_user_group_295f0b9d5e9048309c1c729d92cf97b7</sys_update_name>
+    <active>true</active>
+    <description>This group allows members to create, edit and read records and fields in the 'Access Level' and the 'Access Level Task Template' tables.</description>
+    <name>Access Level Creator</name>
+    <type>permission_management</type>
+  </sys_user_group>
+</record_update>
