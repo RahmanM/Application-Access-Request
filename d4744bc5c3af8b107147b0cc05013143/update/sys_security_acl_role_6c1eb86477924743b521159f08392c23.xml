@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
-  <sys_security_acl_role action="INSERT_OR_UPDATE" apply_defaults="true">
-    <sys_id>6c1eb86477924743b521159f08392c23</sys_id>
-    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
-    <sys_update_name>sys_security_acl_role_6c1eb86477924743b521159f08392c23</sys_update_name>
-    <sys_security_acl>cecce029c26743d59fb2927ef67f7bf9</sys_security_acl>
-    <sys_user_role name="snc_internal">911089bb8f874e588987d327d1fb16f6</sys_user_role>
-  </sys_security_acl_role>
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rahman</sys_created_by>
+        <sys_created_on>2026-09-24 05:51:51</sys_created_on>
+        <sys_id>6c1eb86477924743b521159f08392c23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_857557_applica_0_acc_level.application_name.snc_internal</sys_name>
+        <sys_package display_value="Application Access Request" source="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Access Request">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+        <sys_security_acl display_value="x_857557_applica_0_acc_level.application_name">cecce029c26743d59fb2927ef67f7bf9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6c1eb86477924743b521159f08392c23</sys_update_name>
+        <sys_updated_by>rahman</sys_updated_by>
+        <sys_updated_on>2026-09-24 05:51:51</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+    </sys_security_acl_role>
 </record_update>

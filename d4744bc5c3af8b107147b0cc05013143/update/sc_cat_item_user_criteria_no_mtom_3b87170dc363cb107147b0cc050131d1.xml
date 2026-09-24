@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Application Access Request">b2b50e5d4bc345e28041d8099a8974d0</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>rahman</sys_created_by>
+        <sys_created_on>2026-09-24 07:07:46</sys_created_on>
+        <sys_id>3b87170dc363cb107147b0cc050131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Access Request.SNC External</sys_name>
+        <sys_package display_value="Application Access Request" source="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Access Request">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_3b87170dc363cb107147b0cc050131d1</sys_update_name>
+        <sys_updated_by>rahman</sys_updated_by>
+        <sys_updated_on>2026-09-24 07:07:46</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

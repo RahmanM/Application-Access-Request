@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="aa70186924634ad494ffeaf0f9d4519d" label="Access Level Template" name="x_857557_applica_0_acc_tmpl" type="collection">
+        <element default="Application Access has been requested for {Requested for} for {Display name}." label="Task description" mandatory="true" max_length="2000" name="task_description" type="string"/>
+        <element default="100" label="Order" mandatory="true" name="order" type="integer"/>
+        <element label="Application level" mandatory="true" name="application_level" reference="x_857557_applica_0_acc_level" type="reference"/>
+        <element label="Task assignment group" mandatory="true" name="task_assignment_group" reference="sys_user_group" reference_qual="active=true^typeLIKEwsd^ORactive=true^typeLIKEitil^ORactive=true^typeLIKEnon_hr_fulfillers" type="reference"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Description" max_length="2000" name="description" type="string"/>
+        <element default="Access Request for {Requested for} for {Display name}" label="Task short description" mandatory="true" max_length="160" name="task_short_description" type="string"/>
+        <index name="index">
+            <element name="application_level"/>
+        </index>
+        <index name="index2">
+            <element name="task_assignment_group"/>
+        </index>
+    </element>
+</database>

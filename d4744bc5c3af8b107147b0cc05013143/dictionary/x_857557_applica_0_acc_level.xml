@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="5817362aff1e401a8e66c34c33cb0c00" label="Access Level" name="x_857557_applica_0_acc_level" type="collection">
+        <element display="true" function_definition="glidefunction:concat(application_name, ' ', level)" function_field="true" label="Display name" max_length="300" name="display_name" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Vetting group override" name="vetting_group_override" reference="sys_user_group" reference_qual="active=true^typeLIKEwsd^ORactive=true^typeLIKEitil^ORactive=true^typeLIKEnon_hr_fulfillers" type="reference"/>
+        <element label="Line manager approval" name="line_manager_approval" type="boolean"/>
+        <element label="Approval group override" name="approval_group_override" reference="sys_user_group" type="reference"/>
+        <element label="Description" mandatory="true" max_length="300" name="description" type="string"/>
+        <element label="Vetting task" name="vetting_task" type="boolean"/>
+        <element label="Application name" mandatory="true" name="application_name" reference="cmdb_ci" reference_qual="sys_class_nameINSTANCEOFcmdb_ci_service_auto" reference_qual_condition="sys_class_nameINSTANCEOFcmdb_ci_service_auto" type="reference"/>
+        <element label="Level" mandatory="true" max_length="40" name="level" type="string"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Owner approval" name="owner_approval" type="boolean"/>
+        <element label="Approval group" name="approval_group" type="boolean"/>
+        <index name="index">
+            <element name="application_name"/>
+        </index>
+        <index name="index2">
+            <element name="approval_group_override"/>
+        </index>
+        <index name="index3">
+            <element name="vetting_group_override"/>
+        </index>
+    </element>
+</database>

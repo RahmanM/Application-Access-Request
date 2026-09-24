@@ -1,35 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Task Details" section_id="288cd0d0fffb473d9d28540314d56a3b" sys_domain="global" table="x_857557_applica_0_acc_tmpl" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>task_short_description</element>
-      <position>0</position>
-      <sys_id>84b105cccb9248e486168aa969f6f0c2</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>task_description</element>
-      <position>1</position>
-      <sys_id>7403f4a530cc42c080a1ee9a2d89ab1f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Task Details</caption>
-      <header>false</header>
-      <name>x_857557_applica_0_acc_tmpl</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>288cd0d0fffb473d9d28540314d56a3b</sys_id>
-      <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Task Details" section_id="288cd0d0fffb473d9d28540314d56a3b" sys_domain="global" table="x_857557_applica_0_acc_tmpl" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_short_description</element>
+            <position>0</position>
+            <sys_created_by>rahman</sys_created_by>
+            <sys_created_on>2026-09-24 07:10:17</sys_created_on>
+            <sys_id>84b105cccb9248e486168aa969f6f0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
+            <sys_updated_by>rahman</sys_updated_by>
+            <sys_updated_on>2026-09-24 07:10:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_description</element>
+            <position>1</position>
+            <sys_created_by>rahman</sys_created_by>
+            <sys_created_on>2026-09-24 07:10:17</sys_created_on>
+            <sys_id>7403f4a530cc42c080a1ee9a2d89ab1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_857557_applica_0_acc_tmpl" sys_domain="global" view="Default view">288cd0d0fffb473d9d28540314d56a3b</sys_ui_section>
+            <sys_updated_by>rahman</sys_updated_by>
+            <sys_updated_on>2026-09-24 07:10:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Task Details</caption>
+            <header>false</header>
+            <name>x_857557_applica_0_acc_tmpl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rahman</sys_created_by>
+            <sys_created_on>2026-09-24 05:51:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>288cd0d0fffb473d9d28540314d56a3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_857557_applica_0_acc_tmpl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Application Access Request" source="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application Access Request">d4744bc5c3af8b107147b0cc05013143</sys_scope>
+            <sys_update_name>sys_ui_section_288cd0d0fffb473d9d28540314d56a3b</sys_update_name>
+            <sys_updated_by>rahman</sys_updated_by>
+            <sys_updated_on>2026-09-24 05:51:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
-  <sys_group_has_role action="INSERT_OR_UPDATE" apply_defaults="true">
-    <sys_id>ebda8f410ba24a3fbfc8b7433482a291</sys_id>
-    <sys_scope display_value="x_857557_applica_0">d4744bc5c3af8b107147b0cc05013143</sys_scope>
-    <sys_update_name>sys_group_has_role_ebda8f410ba24a3fbfc8b7433482a291</sys_update_name>
-    <group>295f0b9d5e9048309c1c729d92cf97b7</group>
-    <role name="x_857557_applica_0.access_level_read">4e9fbc81999e4cf0b39df9dff26d3e9b</role>
-  </sys_group_has_role>
-</record_update>
